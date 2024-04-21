@@ -1,4 +1,0 @@
-first line of ccr1
-econd line of ccr;
-Local repo line
-Now i am writing this in git with vi ccr1.txt
