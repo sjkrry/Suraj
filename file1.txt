@@ -1,2 +1,5 @@
 " data ledu ra "
 Enni sarla chypali endulo ledu ani  
+
+ 
+do note pad
